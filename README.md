@@ -20,4 +20,18 @@ A simple card game built using SwiftUI where the first player to score 10 points
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/CardGameApp.git
+   git clone https://github.com/Darkclown205/War-Cards
+
+2. **Open the project:
+   Navigate to the project directory and open CardGameApp.xcodeproj in Xcode.
+   
+3. **Run the project:
+Select your target device or simulator and click the "Run" button in Xcode.
+
+# Usage
+
+Start Game: The game starts automatically upon launch.
+Draw Cards: Click the "Deal" button to draw a new card for both the player and the AI.
+Winning: The game will announce a winner when either the player or AI reaches 10 points. The game will then reset for a new round.
+
+

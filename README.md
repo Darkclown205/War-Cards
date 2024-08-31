@@ -9,6 +9,10 @@ A simple card game built using SwiftUI where the first player to score 10 points
 - **Winning Message:** A message is displayed announcing the winner when 10 points are reached.
 - **Auto-Reset:** The game automatically resets after announcing the winner, ready for a new game.
 
+## Video Demo
+
+A video demonstration of the War Card Game can be found here.
+
 ## Getting Started
 
 ### Prerequisites

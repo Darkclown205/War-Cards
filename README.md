@@ -15,7 +15,7 @@ A simple card game built using SwiftUI where the first player to score 10 points
 
 Check out the video demo of the War Card Game in action below:
 
-[![War Card Game Demo](https://github.com/user-attachments/assets/ee53697d-821a-4be1-809b-d0dec4e72bec)
+https://github.com/user-attachments/assets/ee53697d-821a-4be1-809b-d0dec4e72bec
 
 ## Getting Started
 

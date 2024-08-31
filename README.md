@@ -1,7 +1,5 @@
 
 
-https://github.com/user-attachments/assets/ee53697d-821a-4be1-809b-d0dec4e72bec
-
 # Card Game App
 
 A simple card game built using SwiftUI where the first player to score 10 points wins. The player and the AI each draw a card, and the one with the higher card value wins the round. The game continues until either the player or AI reaches 10 points.
@@ -17,7 +15,7 @@ A simple card game built using SwiftUI where the first player to score 10 points
 
 Check out the video demo of the War Card Game in action below:
 
-[![War Card Game Demo](https://img.youtube.com/vi/your-video-id/0.jpg)](https://www.youtube.com/watch?v=your-video-id)
+[![War Card Game Demo](https://github.com/user-attachments/assets/ee53697d-821a-4be1-809b-d0dec4e72bec)
 
 ## Getting Started
 

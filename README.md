@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/ee53697d-821a-4be1-809b-d0dec4e72bec
+
 # Card Game App
 
 A simple card game built using SwiftUI where the first player to score 10 points wins. The player and the AI each draw a card, and the one with the higher card value wins the round. The game continues until either the player or AI reaches 10 points.
